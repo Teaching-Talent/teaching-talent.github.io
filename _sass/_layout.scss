@@ -84,7 +84,8 @@ pre code.hljs {
 			font-size: modular-scale(1);
 		}
 		.logo {
-    		width: 25em;
+			width: auto;
+			max-width: 50%;
 		}
 	}
 	.scrim {
@@ -93,7 +94,7 @@ pre code.hljs {
 			background-color: rgba(0,0,0,0.2);
 			padding: 6em 1em !important;
 			@include media($tablet) {
-				padding: 9em 1em !important;
+				padding: 4em 1em !important;
 			}
 		}
 	}
