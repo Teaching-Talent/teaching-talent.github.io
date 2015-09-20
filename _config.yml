@@ -8,10 +8,10 @@ subtitle: "A collaborative journey to better education"
 email: hello@teachingtalent.org
 name: "Teaching Talent"
 description: > 
-  A collaborative journey to better education.
+  Teaching Talent: A network of teaching schools on a collaborative journey to better education.
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://teachingtalent.org" # the base hostname & protocol for your site
-cover: "assets/header_image.jpg"
+cover: "assets/header_image_washed.jpg"
 logo: "assets/logo.png"
 
 # Build settings
@@ -20,7 +20,7 @@ paginate: 5
 paginate_path: "/page:num/"
 
 # Disqus comments
-disqus_shortname: bencentra
+disqus_shortname: 
 
 # Google analytics
 ga_tracking_id: "UA-67613530-1"
