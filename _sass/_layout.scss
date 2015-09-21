@@ -252,6 +252,15 @@ pre code.hljs {
 		margin: auto;
 		width: 90%;
 	}
+	.inline-left, .inline-right {
+		margin: 1em;
+	}
+	.inline-left {
+		float: left;
+	}
+	.inline-right {
+		float: right;
+	}
 	/*
 	*	Posts
 	*/

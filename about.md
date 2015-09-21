@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-### The Teaching Talent Network
+### Teaching Talent
 
 We are network of teaching schools on a collaborative journey to better education.
 
