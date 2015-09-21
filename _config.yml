@@ -4,11 +4,11 @@ gems:
 
 # Site settings
 title: "Teaching Talent"
-subtitle: "A collaborative journey to better education"
+subtitle: "Helping build better Teachers & Leaders"
 email: hello@teachingtalent.org
 name: "Teaching Talent"
 description: > 
-  Teaching Talent: A network of teaching schools on a collaborative journey to better education.
+  Teaching Talent: A network of teaching schools on a collaborative journey to help deliver the best possible teachers and leaders for Buckinghamshire schools.
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://teachingtalent.org" # the base hostname & protocol for your site
 cover: "assets/header_image_washed.jpg"
@@ -28,10 +28,10 @@ ga_tracking_id: "UA-67613530-1"
 # Category descriptions (for archive pages)
 descriptions:
   - cat: case-studies
-    desc: "Posts describing case studies."
+    desc: "What we do, how we do it and who benefits."
 
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+  - cat: events
+    desc: "What's coming up at Talent."
 
 # Custom vars
 version:          		1.0.0
