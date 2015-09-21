@@ -9,9 +9,11 @@ cover:  "assets/posts/tpa_cover.jpg"
 permalink:	"a-case-study-of-talent-development"
 ---
 
-## Mr Patteson's journey from Head of Department to Senior Leadership  
+At _Talent_, we are incredibly proud to say that the impact of a range of outstanding professional development opportunities can be extremely powerful, as __Mr Tim Patteson, Head of Geography at Dr Challoner's (who has recently been appointed as Assistant Headteacher at Chesham Grammar School)__ has recently revealed.
 
-At _Talent_, we are incredibly proud to say that the impact of a range of outstanding professional development opportunities can be extremely powerful, as __Mr Tim Patteson, Head of Geography at Dr Challoner's (who has recently been appointed as Assistant Headteacher at Chesham Grammar School)__ has recently revealed.  Before leaving Challoner’s for his new role at the end of the 2014/15 school year, he agreed to be __interviewed by sixth form student__, Toby Pickard:
+### Mr Patteson's journey from Head of Department to Senior Leadership
+
+Before leaving Challoner’s for his new role at the end of the 2014/15 school year, he agreed to be __interviewed by sixth form student__, Toby Pickard:
 
 ### How did the Astra TALENT leadership opportunities help you to reach your goals?
 
