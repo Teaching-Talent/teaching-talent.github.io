@@ -3,6 +3,7 @@ gems:
   - jekyll-sitemap
 
 # Site settings
+header: "TALENT"
 title: "Teaching Talent"
 subtitle: "Training outstanding Teachers & Leaders"
 email: hello@teachingtalent.org
