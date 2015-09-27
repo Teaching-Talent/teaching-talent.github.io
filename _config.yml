@@ -12,7 +12,7 @@ description: >
   Teaching Talent: A network of teaching schools on a collaborative journey to help deliver the best possible teachers and leaders for Buckinghamshire schools.
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://teachingtalent.org" # the base hostname & protocol for your site
-cover: "assets/header_image_washed.jpg"
+cover: "assets/header_1_fl.jpg"
 logo: "assets/logo.png"
 
 # Build settings

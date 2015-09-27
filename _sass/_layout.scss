@@ -3,12 +3,11 @@
 /*
 *	Variables
 */
-$b3: 480px;
-$mobile: $b3;
-$b2: 768px;
-$tablet: $b2;
-$b1: 960px;
-$desktop: $b1;
+
+// See http://thoughtbot.github.io/neat-docs/latest/#media
+$mobile: max-width 480px;
+$tablet: min-width 481px max-width 959px;
+$desktop: min-width 960px;
 
 /*
 *	Globals
@@ -73,6 +72,7 @@ pre code.hljs {
 	width: 100%;
 	text-align: center;
 	&.has-cover {
+		max-height: 352px;
 		color: $white;
 		text-shadow: 0 2px 1px rgba($yellow, $drop-shadow-alpha) !important;
 		background-position: 50% 50%;
@@ -91,10 +91,15 @@ pre code.hljs {
 	.scrim {
 		padding: 3em 1em;
 		&.has-cover {
-			background-color: rgba(0,0,0,0.2);
-			padding: 6em 1em !important;
+			background-color: rgba(255,255,255,0.1);
+			@include media($desktop) {
+				padding: 2em 1em !important;
+			}
 			@include media($tablet) {
-				padding: 4em 1em !important;
+				padding: 1em 1em !important;
+			}
+			@include media($mobile) {
+				padding: 0em 0em !important;
 			}
 		}
 	}
@@ -117,7 +122,7 @@ pre code.hljs {
     margin: 0;
     font-size: 1.5em;
     padding-top: 0.5em;
-    @include media ($tablet) {
+    @include media ($desktop) {
       display: none;
     }
   }
@@ -130,7 +135,7 @@ pre code.hljs {
   .logo {
     float: left;
     height: 4em;
-    @include media ($tablet) {
+    @include media ($desktop) {
     	padding-left: $em-base;
     }
     img {
@@ -145,7 +150,7 @@ pre code.hljs {
   nav {
     float: none;
     padding: 1.25em 0;
-    @include media ($tablet) {
+    @include media ($desktop) {
       float: right;
       line-height: 1.5em;
     }
@@ -157,7 +162,7 @@ pre code.hljs {
     overflow: visible;
     padding: 0;
     width: 100%;
-    @include media ($tablet) {
+    @include media ($desktop) {
       display: block;
       margin: 0;
       padding: 0;
@@ -172,7 +177,7 @@ pre code.hljs {
     text-align: right;
     width: 100%;
     padding: 0.25em 0;
-    @include media ($tablet) {
+    @include media ($desktop) {
       background: transparent;
       display: inline;
       text-decoration: none;
@@ -182,12 +187,12 @@ pre code.hljs {
   li.nav-link {
   	a {
 	    display: inline-block;
-	    @include media ($tablet) {
+	    @include media ($desktop) {
 	      padding-right: 1.5em;
 	    }
 	  }
 	  &:last-child a {
-	  	@include media ($tablet) {
+	  	@include media ($desktop) {
     		padding-right: 1em;
     	}
     }
@@ -367,6 +372,9 @@ pre code.hljs {
 	.footer-heading {
 
 	}
+	.title {
+		text-shadow: 0 2px 1px rgba($black, $drop-shadow-alpha) !important;
+	}
 	/*
 	*	Site Navigation (left)
 	*/
@@ -376,6 +384,9 @@ pre code.hljs {
 			@include span-columns(6);
 		}
 		@include media ($tablet) {
+			@include span-columns(4);
+		}
+		@include media ($desktop) {
 			@include span-columns(4);
 		}
 		font-size: 0.9em;
@@ -398,6 +409,10 @@ pre code.hljs {
 			@include span-columns(4);
 			margin-top: 0;
 		}
+		@include media ($desktop) {
+			@include span-columns(4);
+			margin-top: 0;
+		}
 		font-size: 0.9em;
 		i {
 			width: 1.25em;
@@ -413,7 +428,7 @@ pre code.hljs {
 	.site-signature {
 		margin-top: 1em;
 		@include span-columns(12);
-		@include media ($tablet) {
+		@include media ($desktop) {
 			@include span-columns(4);
 			margin-right: 0;
 			margin-top: 0;

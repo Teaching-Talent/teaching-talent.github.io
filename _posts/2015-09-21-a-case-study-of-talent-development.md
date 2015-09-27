@@ -5,7 +5,7 @@ date:   2015-09-21
 author: Tim Patteson & Toby Pickard
 categories: case-studies
 tags:	case-studies
-cover:  "assets/posts/tpa_cover.jpg"
+cover:  "assets/header_4_f.jpg"
 permalink:	"a-case-study-of-talent-development"
 ---
 

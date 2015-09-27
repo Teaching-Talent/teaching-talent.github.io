@@ -6,8 +6,7 @@ layout: default
 <div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
 	<div class="scrim {% if site.cover %}has-cover{% endif %}">
 		<header class="site-header">
-		  <img class="logo" alt="Teaching Talent" src="{{ "assets/full_logo.png" | prepend: site.baseurl }}" />
-		  {% if site.subtitle %}<h1 class="title">{{ site.subtitle }}</h1>{% endif %}
+		  <img class="logo" alt="{{site.title}}{% if site.subtitle %} - {{ site.subtitle }}{% endif %}" src="{{ "assets/full_logo.png" | prepend: site.baseurl }}" />
 		</header>
 	</div>
 </div>
