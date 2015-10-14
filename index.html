@@ -12,6 +12,20 @@ layout: default
 </div>
 
 <div class="wrapper">
+	<p><strong>We are</strong> network of teaching schools on a collaborative journey to better education.</p>
+	<p><strong>We are</strong> working together to help support and train teachers in schools across the county.</p>
+	<p><strong>We are</strong> ...</p>
+
+	<ul>
+	  {% for partner in site.partners %}
+      	{% if partner.url != null %}
+		<li><a href="{{ partner.url }}" title="{{ partner.name }}">{{ partner.name }}</a> (led by {{ partner.school }})</li>
+      	{% endif %}
+      {% endfor %}
+	</ul>
+	
+	<p>More <a href="{{site.baseurl}}about">about us</a> ...</p>
+
 <ul class="post-list">
   {% for post in paginator.posts %}
   <li>

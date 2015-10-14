@@ -9,7 +9,7 @@ subtitle: "Building the Best"
 email: hello@teachingtalent.org
 name: "Teaching Talent"
 description: > 
-  Teaching Talent: A network of teaching schools on a collaborative journey to help deliver the best possible teachers and leaders for Buckinghamshire schools.
+  We are a network of teaching schools on a collaborative journey to help develop the best possible teachers and leaders for Buckinghamshire schools.
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://teachingtalent.org" # the base hostname & protocol for your site
 cover: "assets/header_1_fl.jpg"
@@ -85,8 +85,8 @@ social:
 
   - name: LinkedIn
     icon: linkedin
-    username: Teaching-Talent
-    url: https://www.linkedin.com/pub/Teaching-Talent
+    username: 
+    url: 
     desc: Connect with us on LinkedIn
     share_url: //www.linkedin.com/shareArticle
     share_title: ?mini=true
@@ -172,6 +172,19 @@ social:
     username: 
     url: 
     desc: Follow me on Vine
+
+partners:
+  - name: Astra Learning Alliance
+    school: Dr Challoner’s Grammar School
+    url: http://astra-alliance.com
+
+  - name: Cygnus
+    school: Wycombe High School
+    url: http://www.whs.bucks.sch.uk/403/about-whs/cygnus-teaching-school-alliance
+
+  - name: The Marlow and Maidenhead Teaching School
+    school: Sir William Borlase’s Grammar School
+    url: http://www.swbgs.com
 
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter

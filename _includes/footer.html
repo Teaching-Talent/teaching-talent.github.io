@@ -44,7 +44,18 @@
     <div class="site-signature">
     	<p class="rss-subscribe text"><strong>Subscribe <a href="{{ "feed.xml" | prepend: site.baseurl }}">via RSS</a></strong></p>
       <p class="text">{{ site.description }}</p>
+		
     </div>
+
+  	<div class="site-end">
+		<ul>
+			{% for partner in site.partners %}
+      		{% if partner.url != null %}
+      		<li><a href="{{ partner.url }}" title="{{ partner.name }}">{{ partner.name }}</a></li>
+      		{% endif %}
+      		{% endfor %}
+		</ul>
+	</div>
 
   </div>
 
