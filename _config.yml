@@ -12,7 +12,7 @@ description: >
   We are a network of teaching schools on a collaborative journey to help develop the best possible teachers and leaders for Buckinghamshire schools.
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://teachingtalent.org" # the base hostname & protocol for your site
-cover: "assets/header_1_fl.jpg"
+cover: "assets/header_6_fl.jpg"
 logo: "assets/logo.png"
 
 # Build settings
@@ -182,7 +182,7 @@ partners:
     school: Wycombe High School
     url: http://www.cygnustsa.co.uk
 
-  - name: The Marlow and Maidenhead Teaching School
+  - name: Marlow & Maidenhead Learning Alliance
     school: Sir William Borlase’s Grammar School
     url: http://www.swbgs.com
 

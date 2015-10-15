@@ -447,6 +447,11 @@ pre code.hljs {
 				margin-left: 1em;
 				margin-right: 1em;
 				display: inline;
+				a {
+					color: $black;
+					font-weight: 600;
+					font-size: 110%;
+				}
 			}
 		}
 	}
