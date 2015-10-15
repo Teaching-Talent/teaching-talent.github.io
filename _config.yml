@@ -37,6 +37,7 @@ descriptions:
 # Custom vars
 version:          		1.0.0
 post_assets:			assets/posts
+general_assets:			assets/general
 
 # Social icons and sharing options
 #

@@ -19,6 +19,8 @@ The stated aims of the programme are:
 
 ### Programme Structure
 
+<img src="{{site.baseurl}}{{site.post_assets}}/ashridge.jpg" style="width: 20em;" class="inline-right" />
+
 The content is delivered in two full days at Ashridge – one at the beginning of the programme and one at the end – and six after-school sessions hosted by the schools involved, across a period of approximately ten months.  Participants are required to complete a personal learning project during the second half of the programme showing how they have applied their learning and report on this during the final day.
 
 In all the sessions, every effort is made to target the content and discussions on participants’ experiences as leaders in schools, while also drawing on lessons from other sectors.
