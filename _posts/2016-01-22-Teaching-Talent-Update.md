@@ -38,7 +38,7 @@ Funding enables us to offer non-selective schools one subsidised place (**£100*
 
 **TLAB16 - 5th March 2016**
 
-The third annual TLAB16 conference (Teaching, Learning and Assessment, Berkhamsted) is on **Saturday 5th March 2016 at Berkhamsted School **(Kings Campus).  
+The third annual TLAB16 conference (Teaching, Learning and Assessment, Berkhamsted) is on **Saturday 5th March 2016 at Berkhamsted School** (Kings Campus).  
 
 Astra Alliance are strategic partners with Chesham Grammar School in this exciting CPD event, which will centre on the importance of **imagination and performing at the highest level**.  The keynote speakers are **John Neal and Phil Beadle**. The leadership panel includes **Dr Mark Fenton (DCGS), Mark Sturgeon (AGS) and Annmarie McNaney (CGS)**. Colleagues from DCGS and other Astra schools will also be delivering workshops, including the launch of the **Teaching Talent '21st Century Leadership'** course.
 
@@ -50,9 +50,9 @@ Karen Lloyd  <a href="mailto:KLloyd@whs.bucks.sch.uk">KLloyd@whs.bucks.sch.uk</a
 
 ## Cygnus Teaching School Alliance
 
-**Returning to Teaching Programme**, in collaboration with the DfE. We are looking for returners in Ebacc and difficult to recruit subject areas. Each returner will have a bespoke programme of support, including classroom practice and pedagogy, provided by Oxford Brookes University. If you could promote this via your own school communication networks this would be much appreciated. More information for candidates can be found at **[education.gov.uk/returner**s](http://education.gov.uk/returners)**.**
+**Returning to Teaching Programme**, in collaboration with the DfE. We are looking for returners in Ebacc and difficult to recruit subject areas. Each returner will have a bespoke programme of support, including classroom practice and pedagogy, provided by Oxford Brookes University. If you could promote this via your own school communication networks this would be much appreciated. More information for candidates can be found at **[education.gov.uk/returners](http://education.gov.uk/returners)**.
 
-**Emerging Outstanding Teacher Programme** and **Emerging Senior Leadership Programme **currently in development with the IOE.
+**Emerging Outstanding Teacher Programme** and **Emerging Senior Leadership Programme** currently in development with the IOE.
 
 **Middle Leadership course** currently underway, in consultation with Heather Clements to include tailored sessions for MLs requiring additional support. 
 
@@ -64,6 +64,6 @@ Dr Ben Parsons  <a href="mailto:bparsons@swbgs.com">bparsons@swbgs.com</a>
 
 **More Able Gifted & Talent Leaders & Buckinghamshire Network**: Development complete, and course to be delivered by Heather Clements, author of the Challenge Award. MGAT Leaders on this course will work with the Challenge Award Framework, and following the programme participants will continue to meet as a network group to share best practice and continue to raise standards.  Venue: Great Marlow School. **For Spring 2016 launch.**
 
-**Building Confidence in Behaviour for Learning for ITT/NQT ** This programme has been developed with ASPIRE, and has been piloted with 2015-16 ITTs/NQTs. **For** **Summer 2016 launch.**
+**Building Confidence in Behaviour for Learning for ITT/NQT** This programme has been developed with ASPIRE, and has been piloted with 2015-16 ITTs/NQTs. **For Summer 2016 launch.**
 
-**Transition, Foundation, Aspiration: Developing Outstanding KS3 Provision.** Sharing best practice and successful models from across our area in data, tracking, and interventions; curriculum planning; student leadership.  **For September 2016 launch. **
+**Transition, Foundation, Aspiration: Developing Outstanding KS3 Provision.** Sharing best practice and successful models from across our area in data, tracking, and interventions; curriculum planning; student leadership.  **For September 2016 launch.**
