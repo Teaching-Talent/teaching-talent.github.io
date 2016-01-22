@@ -26,6 +26,7 @@ Cygnus and Astra secured bid to work with NCTL to train SLEs (free of charge) in
   </div>
 </div>
 
+<br />
 ## Astra Learning Alliance
 
 **Improving Teacher Programme (from March 2016)**
@@ -56,6 +57,7 @@ The cost of the (non-profit) event is **£50 per delegate**, with a 10% discount
   </div>
 </div>
 
+<br />
 ## Cygnus Teaching School Alliance
 
 **Returning to Teaching Programme**, in collaboration with the DfE. We are looking for returners in Ebacc and difficult to recruit subject areas. Each returner will have a bespoke programme of support, including classroom practice and pedagogy, provided by Oxford Brookes University. If you could promote this via your own school communication networks this would be much appreciated. More information for candidates can be found at **[education.gov.uk/returner**s](http://education.gov.uk/returners)**.**
@@ -72,6 +74,7 @@ The cost of the (non-profit) event is **£50 per delegate**, with a 10% discount
   </div>
 </div>
 
+<br />
 ## Marlow & Maidenhead Learning Alliance
 
 **More Able Gifted & Talent Leaders & Buckinghamshire Network**: Development complete, and course to be delivered by Heather Clements, author of the Challenge Award. MGAT Leaders on this course will work with the Challenge Award Framework, and following the programme participants will continue to meet as a network group to share best practice and continue to raise standards.  Venue: Great Marlow School. **For Spring 2016 launch.**
