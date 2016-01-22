@@ -3,6 +3,7 @@ title: Teaching Talent January Update
 layout: post
 author: Stephanie Rodgers
 permalink: /teaching-talent-update-for-bash/
+cover:  "assets/header_5_f.jpg"
 tags:
 - updates
 source-id: 1fya2Co1jGGzgRZRPwQ1NhxUyNMMNjQugz7N5Ai2jfrQ
