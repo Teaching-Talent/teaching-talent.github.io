@@ -1,5 +1,5 @@
 ---
-title: Teaching Talent January Update
+title: Teaching Talent January Update (BASH)
 layout: post
 author: Stephanie Rodgers
 permalink: /teaching-talent-update-for-bash/
@@ -9,10 +9,8 @@ tags:
 source-id: 1fya2Co1jGGzgRZRPwQ1NhxUyNMMNjQugz7N5Ai2jfrQ
 published: true
 ---
-## UPDATE FOR BASH
-#### FRIDAY 22nd JANUARY 2016
 
-**Astra; Cygnus and MMLA Teaching Schools - Joint Projects**
+## Astra; Cygnus and MMLA Teaching Schools - Joint Projects
 
 **Teaching Talent Summer Conference** (£20 per delegate): 7th July 2016, 1-4pm to include light refreshments.   Bucks school venue tbc - please see **Teaching Talent website** from February for full information ([teachingtalent.org](http://teachingtalent.org/)).
 
@@ -28,6 +26,8 @@ Cygnus and Astra secured bid to work with NCTL to train SLEs (free of charge) in
     <p><a href="mailto:sro@challoners.org">sro@challoners.org</a></p>
   </div>
 </div>
+
+## Astra Learning Alliance
 
 **Improving Teacher Programme (from March 2016)**
 
@@ -58,6 +58,8 @@ The cost of the (non-profit) event is **£50 per delegate**, with a 10% discount
   </div>
 </div>
 
+## Cygnus Teaching School Alliance
+
 **Returning to Teaching Programme**, in collaboration with the DfE. We are looking for returners in Ebacc and difficult to recruit subject areas. Each returner will have a bespoke programme of support, including classroom practice and pedagogy, provided by Oxford Brookes University. If you could promote this via your own school communication networks this would be much appreciated. More information for candidates can be found at **[education.gov.uk/returner**s](http://education.gov.uk/returners)**.**
 
 **Emerging Outstanding Teacher Programme** and **Emerging Senior Leadership Programme **currently in development with the IOE.
@@ -72,6 +74,8 @@ The cost of the (non-profit) event is **£50 per delegate**, with a 10% discount
     <p><a href="mailto:bparsons@swbgs.com">bparsons@swbgs.com</a></p>
   </div>
 </div>
+
+## Marlow & Maidenhead Learning Alliance
 
 **More Able Gifted & Talent Leaders & Buckinghamshire Network**: Development complete, and course to be delivered by Heather Clements, author of the Challenge Award. MGAT Leaders on this course will work with the Challenge Award Framework, and following the programme participants will continue to meet as a network group to share best practice and continue to raise standards.  Venue: Great Marlow School. **For Spring 2016 launch.**
 
