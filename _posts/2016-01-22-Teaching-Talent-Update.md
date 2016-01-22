@@ -20,7 +20,7 @@ published: true
 
 Cygnus and Astra secured bid to work with NCTL to train SLEs (free of charge) in South East region from summer 2016.  More information about the SLE designation and deployment process for **Astra, Cygnus and MMLA** is on [teachingtalent.org](http://teachingtalent.org/) and the TSA websites listed below.
 
-![image alt text]({{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_0.png)
+<img src="{{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_0.png)" alt="Astra Logo" style="width; 200px;"/>
 More info: www.astra-alliance.com
 Stephanie Rodgers 
 E: sro@challoners.org
@@ -45,7 +45,7 @@ Astra Alliance are strategic partners with Chesham Grammar School in this exciti
 
 The cost of the (non-profit) event is **£50 per delegate**, with a 10% discount for groups of 5 or more.  The price includes breakfast, lunch and all refreshments on the day, as well as plenty of teaching resources and materials.  See [www.berkhamstedschool.org/TLAB16](http://www.berkhamstedschool.org/TLAB16) for more info and to book.
 
-![image alt text]({{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_1.png)
+<img src="{{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_1.png)" alt="Cygnus Logo" style="width; 80px;"/>
 More info: www.cygnustsa.co.uk
 Karen Lloyd
 E: KLloyd@whs.bucks.sch.uk
@@ -56,7 +56,7 @@ E: KLloyd@whs.bucks.sch.uk
 
 * **Middle Leadership course** currently underway, in consultation with Heather Clements to include tailored sessions for MLs requiring additional support. 
 
-![image alt text]({{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_2.png)</td>
+<img src="{{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_1.png)" alt="MMLA Logo" style="width; 200px;"/>
 More info: 
 Dr Ben Parsons
 E: bparsons@swbgs.com
