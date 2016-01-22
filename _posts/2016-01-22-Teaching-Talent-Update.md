@@ -22,8 +22,7 @@ Cygnus and Astra secured bid to work with NCTL to train SLEs (free of charge) in
   <img src="{{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_0.png" alt="Astra Logo" style="width: 200px; float: left;"/>
   <div style="float: left; padding-left: 2em;">
     <p>More info: <a href="www.astra-alliance.com">www.astra-alliance.com</a></p>
-    <p>Stephanie Rodgers</p>
-    <p><a href="mailto:sro@challoners.org">sro@challoners.org</a></p>
+    <p>Stephanie Rodgers  <a href="mailto:sro@challoners.org">sro@challoners.org</a></p>
   </div>
 </div>
 
@@ -53,8 +52,7 @@ The cost of the (non-profit) event is **£50 per delegate**, with a 10% discount
   <img src="{{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_1.png" alt="Cygnus Logo" style="width: 80px; float: left;"/>
   <div style="float: left; padding-left: 2em;">
     <p>More info: <a href="www.cygnustsa.co.uk">www.cygnustsa.co.uk</a></p>
-    <p>Karen Lloyd</p>
-    <p><a href="mailto:KLloyd@whs.bucks.sch.uk">KLloyd@whs.bucks.sch.uk</a></p>
+    <p>Karen Lloyd  <a href="mailto:KLloyd@whs.bucks.sch.uk">KLloyd@whs.bucks.sch.uk</a></p>
   </div>
 </div>
 
@@ -70,8 +68,7 @@ The cost of the (non-profit) event is **£50 per delegate**, with a 10% discount
   <img src="{{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_2.png" alt="MMLA Logo" style="width: 200px; float: left;"/>
   <div style="float: left; padding-left: 2em;">
     <p>More info:</p>
-    <p>Dr Ben Parsons</p>
-    <p><a href="mailto:bparsons@swbgs.com">bparsons@swbgs.com</a></p>
+    <p>Dr Ben Parsons  <a href="mailto:bparsons@swbgs.com">bparsons@swbgs.com</a></p>
   </div>
 </div>
 
