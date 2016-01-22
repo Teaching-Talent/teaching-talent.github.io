@@ -18,7 +18,7 @@ published: true
 
 Cygnus and Astra secured bid to work with NCTL to train SLEs (free of charge) in South East region from summer 2016.  More information about the SLE designation and deployment process for **Astra, Cygnus and MMLA** is on [teachingtalent.org](http://teachingtalent.org/) and the TSA websites listed below.
 
-<img src="{{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_0.png" alt="Astra Logo" style="width: 200px;"/>
+<img src="{{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_0.png" alt="Astra Logo" style="width: 200px; padding-bottom: 1em;"/>
 More info: <a href="www.astra-alliance.com">www.astra-alliance.com</a>
 Stephanie Rodgers  <a href="mailto:sro@challoners.org">sro@challoners.org</a>
 
@@ -44,7 +44,7 @@ Astra Alliance are strategic partners with Chesham Grammar School in this exciti
 
 The cost of the (non-profit) event is **£50 per delegate**, with a 10% discount for groups of 5 or more.  The price includes breakfast, lunch and all refreshments on the day, as well as plenty of teaching resources and materials.  See [www.berkhamstedschool.org/TLAB16](http://www.berkhamstedschool.org/TLAB16) for more info and to book.
 
-<img src="{{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_1.png" alt="Cygnus Logo" style="width: 80px;"/>
+<img src="{{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_1.png" alt="Cygnus Logo" style="width: 80px; padding-bottom: 1em;"/>
 More info: <a href="www.cygnustsa.co.uk">www.cygnustsa.co.uk</a>
 Karen Lloyd  <a href="mailto:KLloyd@whs.bucks.sch.uk">KLloyd@whs.bucks.sch.uk</a>
 
@@ -56,7 +56,7 @@ Karen Lloyd  <a href="mailto:KLloyd@whs.bucks.sch.uk">KLloyd@whs.bucks.sch.uk</a
 
 **Middle Leadership course** currently underway, in consultation with Heather Clements to include tailored sessions for MLs requiring additional support. 
 
-<img src="{{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_2.png" alt="MMLA Logo" style="width: 200px;"/>
+<img src="{{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_2.png" alt="MMLA Logo" style="width: 200px; padding-bottom: 1em;"/>
 More info:
 Dr Ben Parsons  <a href="mailto:bparsons@swbgs.com">bparsons@swbgs.com</a>
 
