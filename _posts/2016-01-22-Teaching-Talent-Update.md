@@ -44,7 +44,7 @@ Astra Alliance are strategic partners with Chesham Grammar School in this exciti
 
 The cost of the (non-profit) event is **£50 per delegate**, with a 10% discount for groups of 5 or more.  The price includes breakfast, lunch and all refreshments on the day, as well as plenty of teaching resources and materials.  See [www.berkhamstedschool.org/TLAB16](http://www.berkhamstedschool.org/TLAB16) for more info and to book.
 
-<img src="{{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_1.png" alt="Cygnus Logo" style="width: 80px; float: left;"/>
+<img src="{{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_1.png" alt="Cygnus Logo" style="width: 80px;"/>
 More info: <a href="www.cygnustsa.co.uk">www.cygnustsa.co.uk</a>
 Karen Lloyd  <a href="mailto:KLloyd@whs.bucks.sch.uk">KLloyd@whs.bucks.sch.uk</a>
 
@@ -56,7 +56,7 @@ Karen Lloyd  <a href="mailto:KLloyd@whs.bucks.sch.uk">KLloyd@whs.bucks.sch.uk</a
 
 **Middle Leadership course** currently underway, in consultation with Heather Clements to include tailored sessions for MLs requiring additional support. 
 
-<img src="{{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_2.png" alt="MMLA Logo" style="width: 200px; float: left;"/>
+<img src="{{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_2.png" alt="MMLA Logo" style="width: 200px;"/>
 More info:
 Dr Ben Parsons  <a href="mailto:bparsons@swbgs.com">bparsons@swbgs.com</a>
 
