@@ -1,7 +1,7 @@
 ---
 title: Teaching Talent January Update
 layout: post
-author: Stephanie
+author: Stephanie Rodgers
 permalink: /teaching-talent-update-for-bash/
 tags:
 - updates
