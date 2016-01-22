@@ -24,7 +24,6 @@ Cygnus and Astra secured bid to work with NCTL to train SLEs (free of charge) in
     <p>Stephanie Rodgers  <a href="mailto:sro@challoners.org">sro@challoners.org</a></p>
   </div>
 
-<br />
 ## Astra Learning Alliance
 
 **Improving Teacher Programme (from March 2016)**
