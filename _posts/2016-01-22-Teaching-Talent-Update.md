@@ -9,9 +9,8 @@ tags:
 source-id: 1fya2Co1jGGzgRZRPwQ1NhxUyNMMNjQugz7N5Ai2jfrQ
 published: true
 ---
-**UPDATE FOR BASH**
-
-**_FRIDAY 22nd JANUARY 2016_**
+## UPDATE FOR BASH
+#### FRIDAY 22nd JANUARY 2016
 
 **Astra; Cygnus and MMLA Teaching Schools - Joint Projects**
 
@@ -23,7 +22,7 @@ Cygnus and Astra secured bid to work with NCTL to train SLEs (free of charge) in
 
 <div>
   <img src="{{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_0.png" alt="Astra Logo" style="width: 200px; float: left;"/>
-  <div style="float: left">
+  <div style="float: left; padding-left: 2em;">
     <p>More info: <a href="www.astra-alliance.com">www.astra-alliance.com</a></p>
     <p>Stephanie Rodgers</p>
     <p><a href="mailto:sro@challoners.org">sro@challoners.org</a></p>
@@ -52,30 +51,30 @@ The cost of the (non-profit) event is **£50 per delegate**, with a 10% discount
 
 <div>
   <img src="{{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_1.png" alt="Cygnus Logo" style="width: 80px; float: left;"/>
-  <div style="float: left">
+  <div style="float: left; padding-left: 2em;">
     <p>More info: <a href="www.cygnustsa.co.uk">www.cygnustsa.co.uk</a></p>
     <p>Karen Lloyd</p>
     <p><a href="mailto:KLloyd@whs.bucks.sch.uk">KLloyd@whs.bucks.sch.uk</a></p>
   </div>
 </div>
 
-* **Returning to Teaching Programme**, in collaboration with the DfE. We are looking for returners in Ebacc and difficult to recruit subject areas. Each returner will have a bespoke programme of support, including classroom practice and pedagogy, provided by Oxford Brookes University. If you could promote this via your own school communication networks this would be much appreciated. More information for candidates can be found at **[education.gov.uk/returner**s](http://education.gov.uk/returners)**.**
+**Returning to Teaching Programme**, in collaboration with the DfE. We are looking for returners in Ebacc and difficult to recruit subject areas. Each returner will have a bespoke programme of support, including classroom practice and pedagogy, provided by Oxford Brookes University. If you could promote this via your own school communication networks this would be much appreciated. More information for candidates can be found at **[education.gov.uk/returner**s](http://education.gov.uk/returners)**.**
 
-* **Emerging Outstanding Teacher Programme** and **Emerging Senior Leadership Programme **currently in development with the IOE.
+**Emerging Outstanding Teacher Programme** and **Emerging Senior Leadership Programme **currently in development with the IOE.
 
-* **Middle Leadership course** currently underway, in consultation with Heather Clements to include tailored sessions for MLs requiring additional support. 
+**Middle Leadership course** currently underway, in consultation with Heather Clements to include tailored sessions for MLs requiring additional support. 
 
 <div>
   <img src="{{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_2.png" alt="MMLA Logo" style="width: 200px; float: left;"/>
-  <div style="float: left">
+  <div style="float: left; padding-left: 2em;">
     <p>More info:</p>
     <p>Dr Ben Parsons</p>
     <p><a href="mailto:bparsons@swbgs.com">bparsons@swbgs.com</a></p>
   </div>
 </div>
 
-* **More Able Gifted & Talent Leaders & Buckinghamshire Network**: Development complete, and course to be delivered by Heather Clements, author of the Challenge Award. MGAT Leaders on this course will work with the Challenge Award Framework, and following the programme participants will continue to meet as a network group to share best practice and continue to raise standards.  Venue: Great Marlow School. **For Spring 2016 launch.**
+**More Able Gifted & Talent Leaders & Buckinghamshire Network**: Development complete, and course to be delivered by Heather Clements, author of the Challenge Award. MGAT Leaders on this course will work with the Challenge Award Framework, and following the programme participants will continue to meet as a network group to share best practice and continue to raise standards.  Venue: Great Marlow School. **For Spring 2016 launch.**
 
-* **Building Confidence in Behaviour for Learning for ITT/NQT ** This programme has been developed with ASPIRE, and has been piloted with 2015-16 ITTs/NQTs. **For** **Summer 2016 launch.**
+**Building Confidence in Behaviour for Learning for ITT/NQT ** This programme has been developed with ASPIRE, and has been piloted with 2015-16 ITTs/NQTs. **For** **Summer 2016 launch.**
 
-* **Transition, Foundation, Aspiration: Developing Outstanding KS3 Provision.** Sharing best practice and successful models from across our area in data, tracking, and interventions; curriculum planning; student leadership.  **For September 2016 launch. **
+**Transition, Foundation, Aspiration: Developing Outstanding KS3 Provision.** Sharing best practice and successful models from across our area in data, tracking, and interventions; curriculum planning; student leadership.  **For September 2016 launch. **
