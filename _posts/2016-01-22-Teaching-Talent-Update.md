@@ -20,14 +20,10 @@ published: true
 
 Cygnus and Astra secured bid to work with NCTL to train SLEs (free of charge) in South East region from summer 2016.  More information about the SLE designation and deployment process for **Astra, Cygnus and MMLA** is on [teachingtalent.org](http://teachingtalent.org/) and the TSA websites listed below.
 
-<table>
-  <tr>
-    <td>![image alt text]({{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_0.png)</td>
-    <td>More info: www.astra-alliance.com
+![image alt text]({{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_0.png)
+More info: www.astra-alliance.com
 Stephanie Rodgers 
-E: sro@challoners.org</td>
-  </tr>
-</table>
+E: sro@challoners.org
 
 **Improving Teacher Programme (from March 2016)**
 
@@ -49,14 +45,10 @@ Astra Alliance are strategic partners with Chesham Grammar School in this exciti
 
 The cost of the (non-profit) event is **£50 per delegate**, with a 10% discount for groups of 5 or more.  The price includes breakfast, lunch and all refreshments on the day, as well as plenty of teaching resources and materials.  See [www.berkhamstedschool.org/TLAB16](http://www.berkhamstedschool.org/TLAB16) for more info and to book.
 
-<table>
-  <tr>
-    <td>![image alt text]({{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_1.png)</td>
-    <td>More info: www.cygnustsa.co.uk
+![image alt text]({{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_1.png)
+More info: www.cygnustsa.co.uk
 Karen Lloyd
-E: KLloyd@whs.bucks.sch.uk</td>
-  </tr>
-</table>
+E: KLloyd@whs.bucks.sch.uk
 
 * **Returning to Teaching Programme**, in collaboration with the DfE. We are looking for returners in Ebacc and difficult to recruit subject areas. Each returner will have a bespoke programme of support, including classroom practice and pedagogy, provided by Oxford Brookes University. If you could promote this via your own school communication networks this would be much appreciated. More information for candidates can be found at **[education.gov.uk/returner**s](http://education.gov.uk/returners)**.**
 
@@ -64,14 +56,10 @@ E: KLloyd@whs.bucks.sch.uk</td>
 
 * **Middle Leadership course** currently underway, in consultation with Heather Clements to include tailored sessions for MLs requiring additional support. 
 
-<table>
-  <tr>
-    <td>![image alt text]({{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_2.png)</td>
-    <td>More info: 
+![image alt text]({{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_2.png)</td>
+More info: 
 Dr Ben Parsons
-E: bparsons@swbgs.com</td>
-  </tr>
-</table>
+E: bparsons@swbgs.com
 
 * **More Able Gifted & Talent Leaders & Buckinghamshire Network**: Development complete, and course to be delivered by Heather Clements, author of the Challenge Award. MGAT Leaders on this course will work with the Challenge Award Framework, and following the programme participants will continue to meet as a network group to share best practice and continue to raise standards.  Venue: Great Marlow School. **For Spring 2016 launch.**
 
