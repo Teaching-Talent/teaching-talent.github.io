@@ -20,17 +20,14 @@ published: true
 
 Cygnus and Astra secured bid to work with NCTL to train SLEs (free of charge) in South East region from summer 2016.  More information about the SLE designation and deployment process for **Astra, Cygnus and MMLA** is on [teachingtalent.org](http://teachingtalent.org/) and the TSA websites listed below.
 
-![image alt text]({{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_0.png)
-
 <table>
   <tr>
-    <td></td>
+    <td>![image alt text]({{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_0.png)</td>
     <td>More info: www.astra-alliance.com
 Stephanie Rodgers 
 E: sro@challoners.org</td>
   </tr>
 </table>
-
 
 **Improving Teacher Programme (from March 2016)**
 
@@ -52,11 +49,9 @@ Astra Alliance are strategic partners with Chesham Grammar School in this exciti
 
 The cost of the (non-profit) event is **£50 per delegate**, with a 10% discount for groups of 5 or more.  The price includes breakfast, lunch and all refreshments on the day, as well as plenty of teaching resources and materials.  See [www.berkhamstedschool.org/TLAB16](http://www.berkhamstedschool.org/TLAB16) for more info and to book.
 
-![image alt text]({{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_1.png)
-
 <table>
   <tr>
-    <td></td>
+    <td>![image alt text]({{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_1.png)</td>
     <td>More info: www.cygnustsa.co.uk
 Karen Lloyd
 E: KLloyd@whs.bucks.sch.uk</td>
@@ -70,11 +65,9 @@ E: KLloyd@whs.bucks.sch.uk</td>
 
 * **Middle Leadership course** currently underway, in consultation with Heather Clements to include tailored sessions for MLs requiring additional support. 
 
-![image alt text]({{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_2.png)
-
 <table>
   <tr>
-    <td></td>
+    <td>![image alt text]({{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_2.png)</td>
     <td>More info: 
 Dr Ben Parsons
 E: bparsons@swbgs.com</td>
@@ -87,4 +80,3 @@ E: bparsons@swbgs.com</td>
 * **Building Confidence in Behaviour for Learning for ITT/NQT ** This programme has been developed with ASPIRE, and has been piloted with 2015-16 ITTs/NQTs. **For** **Summer 2016 launch.**
 
 * **Transition, Foundation, Aspiration: Developing Outstanding KS3 Provision.** Sharing best practice and successful models from across our area in data, tracking, and interventions; curriculum planning; student leadership.  **For September 2016 launch. **
-
