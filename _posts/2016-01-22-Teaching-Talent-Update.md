@@ -19,12 +19,14 @@ published: true
 **Specialist Leaders of Education (SLEs) - recruitment, deployment and training**
 
 Cygnus and Astra secured bid to work with NCTL to train SLEs (free of charge) in South East region from summer 2016.  More information about the SLE designation and deployment process for **Astra, Cygnus and MMLA** is on [teachingtalent.org](http://teachingtalent.org/) and the TSA websites listed below.
-http://teachingtalent.org/assets/posts/more-able.jpg
-<img src="{{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_0.png" alt="Astra Logo" style="width: 200px; align: left;"/>
-<div style="float: left">
-  <p>More info: <a href="www.astra-alliance.com">www.astra-alliance.com</a></p>
-  <p>Stephanie Rodgers</p>
-  <p><a href="mailto:sro@challoners.org">sro@challoners.org</a></p>
+
+<div>
+  <img src="{{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_0.png" alt="Astra Logo" style="width: 200px; float: left;"/>
+  <div style="float: left">
+    <p>More info: <a href="www.astra-alliance.com">www.astra-alliance.com</a></p>
+    <p>Stephanie Rodgers</p>
+    <p><a href="mailto:sro@challoners.org">sro@challoners.org</a></p>
+  </div>
 </div>
 
 **Improving Teacher Programme (from March 2016)**
@@ -47,11 +49,13 @@ Astra Alliance are strategic partners with Chesham Grammar School in this exciti
 
 The cost of the (non-profit) event is **£50 per delegate**, with a 10% discount for groups of 5 or more.  The price includes breakfast, lunch and all refreshments on the day, as well as plenty of teaching resources and materials.  See [www.berkhamstedschool.org/TLAB16](http://www.berkhamstedschool.org/TLAB16) for more info and to book.
 
-<img src="{{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_1.png" alt="Cygnus Logo" style="width: 80px; align: left;"/>
-<div style="float: left">
-  <p>More info: <a href="www.cygnustsa.co.uk">www.cygnustsa.co.uk</a></p>
-  <p>Karen Lloyd</p>
-  <p><a href="mailto:KLloyd@whs.bucks.sch.uk">KLloyd@whs.bucks.sch.uk</a></p>
+<div>
+  <img src="{{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_1.png" alt="Cygnus Logo" style="width: 80px; float: left;"/>
+  <div style="float: left">
+    <p>More info: <a href="www.cygnustsa.co.uk">www.cygnustsa.co.uk</a></p>
+    <p>Karen Lloyd</p>
+    <p><a href="mailto:KLloyd@whs.bucks.sch.uk">KLloyd@whs.bucks.sch.uk</a></p>
+  </div>
 </div>
 
 * **Returning to Teaching Programme**, in collaboration with the DfE. We are looking for returners in Ebacc and difficult to recruit subject areas. Each returner will have a bespoke programme of support, including classroom practice and pedagogy, provided by Oxford Brookes University. If you could promote this via your own school communication networks this would be much appreciated. More information for candidates can be found at **[education.gov.uk/returner**s](http://education.gov.uk/returners)**.**
@@ -60,11 +64,13 @@ The cost of the (non-profit) event is **£50 per delegate**, with a 10% discount
 
 * **Middle Leadership course** currently underway, in consultation with Heather Clements to include tailored sessions for MLs requiring additional support. 
 
-<img src="{{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_2.png" alt="MMLA Logo" style="width: 200px; align: left;"/>
-<div style="float: left">
-  <p>More info:</p>
-  <p>Dr Ben Parsons</p>
-  <p><a href="mailto:bparsons@swbgs.com">bparsons@swbgs.com</a></p>
+<div>
+  <img src="{{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_2.png" alt="MMLA Logo" style="width: 200px; float: left;"/>
+  <div style="float: left">
+    <p>More info:</p>
+    <p>Dr Ben Parsons</p>
+    <p><a href="mailto:bparsons@swbgs.com">bparsons@swbgs.com</a></p>
+  </div>
 </div>
 
 * **More Able Gifted & Talent Leaders & Buckinghamshire Network**: Development complete, and course to be delivered by Heather Clements, author of the Challenge Award. MGAT Leaders on this course will work with the Challenge Award Framework, and following the programme participants will continue to meet as a network group to share best practice and continue to raise standards.  Venue: Great Marlow School. **For Spring 2016 launch.**
