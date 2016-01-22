@@ -18,13 +18,11 @@ published: true
 
 Cygnus and Astra secured bid to work with NCTL to train SLEs (free of charge) in South East region from summer 2016.  More information about the SLE designation and deployment process for **Astra, Cygnus and MMLA** is on [teachingtalent.org](http://teachingtalent.org/) and the TSA websites listed below.
 
-<div>
-  <img src="{{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_0.png" alt="Astra Logo" style="width: 200px; float: left;"/>
+  <img src="{{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_0.png" alt="Astra Logo" style="width: 200px;"/>
   <div style="float: left; padding-left: 2em;">
     <p>More info: <a href="www.astra-alliance.com">www.astra-alliance.com</a></p>
     <p>Stephanie Rodgers  <a href="mailto:sro@challoners.org">sro@challoners.org</a></p>
   </div>
-</div>
 
 <br />
 ## Astra Learning Alliance
