@@ -14,7 +14,7 @@ published: true
 
 **Astra; Cygnus and MMLA Teaching Schools - Joint Projects**
 
-**Teaching Talent Summer Conference**** (£20 per delegate): 7th July 2016, 1-4pm **to include light refreshments.   Bucks school venue tbc - please see **Teaching Talent website** from February for full information ([teachingtalent.org](http://teachingtalent.org/)).
+**Teaching Talent Summer Conference** (£20 per delegate): 7th July 2016, 1-4pm to include light refreshments.   Bucks school venue tbc - please see **Teaching Talent website** from February for full information ([teachingtalent.org](http://teachingtalent.org/)).
 
 **Specialist Leaders of Education (SLEs) - recruitment, deployment and training**
 
@@ -45,7 +45,7 @@ Funding enables us to offer non-selective schools one subsidised place (**£100*
 
 The third annual TLAB16 conference (Teaching, Learning and Assessment, Berkhamsted) is on **Saturday 5th March 2016 at Berkhamsted School **(Kings Campus).  
 
-Astra Alliance are strategic partners with Chesham Grammar School in this exciting CPD event, which will centre on the importance of **imagination and performing at the highest level**.  The keynote speakers are **John Neal and Phil Beadle**. The **leadership panel **includes** **Dr Mark Fenton (DCGS), Mark Sturgeon (AGS) and Annmarie McNaney (CGS). Colleagues from DCGS and other Astra schools will also be delivering workshops, including the launch of the **Teaching Talent '21st Century Leadership'** course.
+Astra Alliance are strategic partners with Chesham Grammar School in this exciting CPD event, which will centre on the importance of **imagination and performing at the highest level**.  The keynote speakers are **John Neal and Phil Beadle**. The leadership panel includes **Dr Mark Fenton (DCGS), Mark Sturgeon (AGS) and Annmarie McNaney (CGS)**. Colleagues from DCGS and other Astra schools will also be delivering workshops, including the launch of the **Teaching Talent '21st Century Leadership'** course.
 
 The cost of the (non-profit) event is **£50 per delegate**, with a 10% discount for groups of 5 or more.  The price includes breakfast, lunch and all refreshments on the day, as well as plenty of teaching resources and materials.  See [www.berkhamstedschool.org/TLAB16](http://www.berkhamstedschool.org/TLAB16) for more info and to book.
 
@@ -57,7 +57,6 @@ Karen Lloyd
 E: KLloyd@whs.bucks.sch.uk</td>
   </tr>
 </table>
-
 
 * **Returning to Teaching Programme**, in collaboration with the DfE. We are looking for returners in Ebacc and difficult to recruit subject areas. Each returner will have a bespoke programme of support, including classroom practice and pedagogy, provided by Oxford Brookes University. If you could promote this via your own school communication networks this would be much appreciated. More information for candidates can be found at **[education.gov.uk/returner**s](http://education.gov.uk/returners)**.**
 
@@ -73,7 +72,6 @@ Dr Ben Parsons
 E: bparsons@swbgs.com</td>
   </tr>
 </table>
-
 
 * **More Able Gifted & Talent Leaders & Buckinghamshire Network**: Development complete, and course to be delivered by Heather Clements, author of the Challenge Award. MGAT Leaders on this course will work with the Challenge Award Framework, and following the programme participants will continue to meet as a network group to share best practice and continue to raise standards.  Venue: Great Marlow School. **For Spring 2016 launch.**
 
