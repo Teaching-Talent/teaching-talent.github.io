@@ -12,7 +12,7 @@ published: true
 
 ## Astra; Cygnus and MMLA Teaching Schools - Joint Projects
 
-**Teaching Talent Summer Conference** (£20 per delegate): 7th July 2016, 1-4pm to include light refreshments.   Bucks school venue tbc - please see **Teaching Talent website** from February for full information ([teachingtalent.org](http://teachingtalent.org/)).
+**Teaching Talent Summer Conference** (£20 per delegate): 6th June 2016, 1-4pm to include light refreshments at The Misbourne School, Great Missenden.
 
 **Specialist Leaders of Education (SLEs) - recruitment, deployment and training**
 
