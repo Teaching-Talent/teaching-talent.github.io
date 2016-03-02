@@ -203,6 +203,20 @@ pre code.hljs {
 *	Body
 */
 .page-content {
+  .advert {
+    @include fill-parent;
+    padding: 1em;
+    background: rgba( $teachingTalentblue, .4 );
+    h1, h2, h3, h4, p {
+      text-align: center;
+    }
+    h1, h2, a {
+      color: $white;
+    }
+    h1, h2 {
+      text-shadow: 0 2px 1px rgba($black, $drop-shadow-alpha) !important;
+    }
+  }
 	.wrapper {
 		@include outer-container;
 		padding: 1em;
