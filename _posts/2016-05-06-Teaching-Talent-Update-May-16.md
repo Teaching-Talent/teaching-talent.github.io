@@ -49,3 +49,51 @@ BCC funding enables us to offer non-selective schools subsidised places (**£100
 ### Outstanding Teacher Programme (from September 2016)
 
 The [Astra Outstanding Teaching Programme (OTP)](http://www.astra-alliance.com/308/outstanding-teacher-programme-otp-secondary) is now in its third year and has been developed to enable teachers in the alliance who are currently identified as good to work together, with the support of outstanding practitioners in their own school, to develop and refine their practice, undertake professional enquiry and embed new skills and knowledge into their teaching so it is consistently outstanding.  The programme will launch in September 2016 and will be facilitated by outstanding practitioners in the Alliance. For more information, please contact [Amanda Mauro](mailto:amanda@astra-alliance.com).
+
+<img src="{{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_1.png" alt="Cygnus Logo" style="width: 80px; padding-bottom: 1em;"/>
+More info: <a href="www.cygnustsa.co.uk">www.cygnustsa.co.uk</a>
+Karen Lloyd  <a href="mailto:KLloyd@whs.bucks.sch.uk">KLloyd@whs.bucks.sch.uk</a>
+
+## Cygnus Teaching School Alliance
+
+### Returning to Teaching Programme
+
+In collaboration with the DfE. We are looking for returners in Ebacc and difficult to recruit subject areas. Each returner will have a bespoke programme of support, including classroom practice and pedagogy, provided by Oxford Brookes University. If you could promote this via your own school communication networks this would be much appreciated. More information for candidates can be found at **[education.gov.uk/returners](http://education.gov.uk/returners)**.
+
+### Widening Leadership with the Institute of Education starting September 2016
+
+Lead yourself, your team and beyond; Clarify your communication style and strengths; Understand the use of motivation as a leadership tool; Advance your skills in leading and influencing others; Intensify your impact on learning and teaching practices; Deal with contentious issues and whole school initiatives.
+
+This is suitable for: new leaders in a senior leadership role; experienced middle leaders with at least 3 years’ experience in the role; leaders who have already undertaken previous professional middle leadership development. Also suitable for professional support staff e. g. school business.
+
+**Starts September 2016 Wycombe High School, Marlow Road, High Wycombe, HP11 1TB.** There will be a charge of £300 per delegate. Discount available for additional attendees.
+Delegates attend three leadership days. Inter sessional tasks will be undertaken between the leadership days including the completion of an online diagnostic between day 1 & 2. During the programme leaders will carry out action research which will involve working across the school or with another team. Participants will have access to an online resource based network throughout the programme to enhance learning. Participants must attend face to face session and undertake a series of inter-sessional tasks to complete the programme. The programme finishes with a learning conversation and celebration twilight when the final action research projects are presented.
+
+<img src="{{ site.url }}/assets/posts/LqDiA9p6d78OQrJmjp6zA_img_2.png" alt="MMLA Logo" style="width: 200px; padding-bottom: 1em;"/>
+More info:
+Dr Ben Parsons  <a href="mailto:bparsons@swbgs.com">bparsons@swbgs.com</a>
+
+## Marlow & Maidenhead Learning Alliance
+
+### Leading Your Most Able Learners: Whole-School Innovation and CPD for School Leaders (Autumn & Spring 2016)
+
+* Lead whole-school innovation in pace and challenge for all learners
+* Demonstrate quality and consistency of provision for higher-ability learners in KS3-5
+* Provide the necessary evidence to undertake the NACE Challenge Award
+* Join a network to share best practice across our area
+
+The programme consists of 7 half-day sessions over 6 months. £850 per school (up to three delegates). Non-selective schools are subsidised through Teaching Talent at £550. To book a place for your school, please [email](mailto:mmla@swbgs.com) by 8 July.
+
+### Behaviour for Learning in Your Early Career: CPD for ITT & NQT (Autumn 2016)
+
+This programme has been developed with ASPIRE. We take a holistic view of challenging behaviour, focussing on neurological and psychological factors. Participants will learn practical, research-informed strategies for raising confidence, and will receive a toolkit for use in the classroom.  Cost: £200 per teacher for 3 sessions. Non-selective schools are subsidised through Teaching Talent at £120. To book places, please [email](mailto:mmla@swbgs.com) by 8 July.
+
+### Collaboration Project: Outstanding EBacc Subject Leadership at Beaconsfield School, The Buckingham School, Sir William Borlase’s Grammar School (June-October 2016)
+
+This is a genuinely collaborative project focused on the journey to ‘Outstanding’ subject leadership in EBacc subjects, and the challenge to stay outstanding. The exciting programme project will draw on coaching frameworks and recent pedagogy to explore the power of this group of subject leaders in shaping and driving the Teaching and Learning vision of their schools. It aims to enable HoD participants from all three schools to realise the potential in their department teams, to embrace the challenges of the changing assessment and curriculum demands, and explores how they can lead consistently outstanding teacher and student performance.
+
+The programme also seeks collaboratively to develop evidence-based guidance on effective practice which other schools can draw on. The programme is developed and delivered by Ben Parsons ( Director of MMLA), Heather Clements (author of the NACE Challenge Award), Ron Piper (Assistant Head, the Ridgeway School, Swindon) and Karen Kennedy, both NLP Master-Practitioner coaches. Sessions will be facilitated by MMLA SLEs.
+
+### Leading Student Leaders: MMLA Summer Conference 5 July 2016
+
+This year we have introduced a parallel teacher CPD event to our popular annual Student Leadership conference. The programme will include seminars and workshops sharing best practice from our schools and school-improvement professionals, including SSAT and British Council. For booking or if you would like to offer a best-practice session about Student Leadership in your school, please [email](mailto:mmla@swbgs.com).
