@@ -20,6 +20,8 @@ Keynotes will be provided by **Keven Bartle** and **Phil Beadle**, and there wil
 
 ### Specialist Leaders of Education (SLEs) - NCTL Accredited Core Training
 
+![Specialist Leaders of Education]({{ site.url }}/assets/posts/1izkK1j4lXpJpYAi3ovQXfNcTWZuhx6T0-6dbs8qgN20_img_0.jpg)
+
 We are delighted to announce that Astra, Cygnus and Herts & Bucks TSAs have been successful in securing both funding and accreditation from the NCTL and Teaching Schools Council to deliver the [SLE core training in the South East region](http://www.astra-alliance.com/225/latest-news/article/76/specialist-leaders-of-education-sle-core-training).
 
 **Free of charge training, delivered by practicing SLEs**, is designed to equip newly designated Specialist Leaders of Education (SLEs) - or those SLEs who have not previously been provided with the accredited training by the NCTL - with the skills they need to complete their role. SLEs are required to attend one core training day, either on 17th June (Dr Challoner’s Grammar School) or 29th June (St Clement Danes School).
@@ -38,6 +40,8 @@ The Astra Alliance is delighted to announce that recruitment for [primary and se
 
 More information about the [background and work of our current SLEs](http://www.astra-alliance.com/351/meet-our-sles) can be found here.
 
+![Specialist Leaders of Education]({{ site.url }}/assets/posts/1izkK1j4lXpJpYAi3ovQXfNcTWZuhx6T0-6dbs8qgN20_img_1.jpg)
+
 ### Improving Teacher Programme (September 2016)
 
 * Aimed at teachers who are not yet securely good and will be designed and built around areas for development identified by Ofsted (eg. behaviour for learning)
@@ -55,6 +59,8 @@ More info: <a href="www.cygnustsa.co.uk">www.cygnustsa.co.uk</a>
 Karen Lloyd  <a href="mailto:KLloyd@whs.bucks.sch.uk">KLloyd@whs.bucks.sch.uk</a>
 
 ## Cygnus Teaching School Alliance
+
+![Specialist Leaders of Education]({{ site.url }}/assets/posts/1izkK1j4lXpJpYAi3ovQXfNcTWZuhx6T0-6dbs8qgN20_img_2.jpg)
 
 ### Returning to Teaching Programme
 
